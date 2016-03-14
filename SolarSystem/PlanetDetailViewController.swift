@@ -13,7 +13,9 @@ class PlanetDetailViewController: UIViewController {
     @IBOutlet weak var planetImageView: UIImageView!
     
     @IBOutlet weak var diameterLabel: UILabel!
+    
     @IBOutlet weak var distanceLabel: UILabel!
+    
     @IBOutlet weak var lengthLabel: UILabel!
     
     override func viewDidLoad() {
